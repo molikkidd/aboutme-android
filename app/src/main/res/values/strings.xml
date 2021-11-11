@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="molik_k">Molik K.</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio"> Ni hao, ta men jiao wo hei long,
+
+        \n\nyin wei wo shi hei ren he
+        long shi ku bi le. wo jue de wo wang le hen
+        duo zhong wan so yi wo shou cha bu duo.
+
+        \n\nthis should be a lot longer because the
+        goal is to show the scrollview feature, so
+        lets keep typing until enough of the space is
+        filled up.
+
+        \n\nAnother option is to go grab some random
+        text from a website and paste it in here.
+
+       \n\nLorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the
+        industries standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book.
+
+        \n\nIt has survived not only five centuries, but also the leap
+        into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of
+        sheets containing Lorem
+    </string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">Done</string>
+</resources>
